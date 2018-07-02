@@ -1,5 +1,12 @@
 h1{
     color: lightgreen;
     background-color: violet;
+<<<<<<< HEAD
     cursor: pointer;
+=======
+}
+
+body{
+    background-color: black;
+>>>>>>> feature/new-background
 }
