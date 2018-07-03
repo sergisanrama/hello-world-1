@@ -21,3 +21,10 @@ html{
     margin: 0;
     padding: 0;
 }
+h2{
+    color: white;
+    background-color: violet;
+}
+p{
+    color: violet;
+}
